@@ -9,7 +9,7 @@ terraform {
 
 provider "google" {
   # Configuration options
-  project = "eng-braid-447706-a1"
+  project = "lkom-projects"
   region= "us-east-1"
   zone ="us-east1-a"
 } 
